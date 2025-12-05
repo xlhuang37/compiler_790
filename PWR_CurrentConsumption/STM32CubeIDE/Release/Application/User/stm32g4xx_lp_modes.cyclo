@@ -1,0 +1,5 @@
+/Users/xiaolonghuang/STM32CubeIDE/workspace_1.19.0/PWR_CurrentConsumption/Src/stm32g4xx_lp_modes.c:61:6:SleepMode_Measure	1
+/Users/xiaolonghuang/STM32CubeIDE/workspace_1.19.0/PWR_CurrentConsumption/Src/stm32g4xx_lp_modes.c:133:6:StopMode_Measure	1
+/Users/xiaolonghuang/STM32CubeIDE/workspace_1.19.0/PWR_CurrentConsumption/Src/stm32g4xx_lp_modes.c:200:6:StopRTCMode_Measure	2
+/Users/xiaolonghuang/STM32CubeIDE/workspace_1.19.0/PWR_CurrentConsumption/Src/stm32g4xx_lp_modes.c:299:6:StandbyMode_Measure	1
+/Users/xiaolonghuang/STM32CubeIDE/workspace_1.19.0/PWR_CurrentConsumption/Src/stm32g4xx_lp_modes.c:345:6:StandbyRTCMode_Measure	2
